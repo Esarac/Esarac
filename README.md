@@ -10,5 +10,5 @@
 https://www.instagram.com/esaracgp/
 
 ### Most Used Lenguage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esarac&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esarac&hide=tcl,tex)](https://github.com/anuraghazra/github-readme-stats)
 
