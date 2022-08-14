@@ -8,6 +8,7 @@
 - Video Game Designer 🎮
 - Salsa Dancer 💃
 - Once 🎵
+- Bodybuilder
 
 ### Instagram
 https://www.instagram.com/esaracgp/
