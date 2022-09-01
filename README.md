@@ -1,5 +1,5 @@
 # Hi, Welcome to my GitHub!
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=a674e7&bar_color_cover=false)]]
+<!-- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=a674e7&bar_color_cover=false)]] -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esarac&hide=tcl,tex&theme=shades-of-purple&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
