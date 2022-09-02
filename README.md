@@ -24,5 +24,32 @@
 
 <h2>🤯 Technology I use</h2>
 
+<div>
+<img alt="Java" height=50 width=50 src="./img/java.svg">
+<img alt="Csharp" height=50 width=50 src="./img/csharp.svg">
+<img alt="Python" height=50 width=50 src="./img/python.svg">
+<img alt="Javascript" height=50 width=50 src="./img/javascript.svg">
+<img alt="Typescript" height=50 width=50 src="./img/typescript.svg">
+<img alt="Kotlin" height=50 width=50 src="./img/kotlin.svg">
+<img alt="Html" height=50 width=50 src="./img/html5.svg">
+<img alt="Css" height=50 width=50 src="./img/css3.svg">
+<img alt="Sass" height=50 width=50 src="./img/sass.svg">
+<img alt="Mysql" height=50 width=50 src="./img/mysql.svg">
+</div>
+
 <h2>🤨 Social media</h2>
-https://www.instagram.com/esaracgp/
+<a href="https://www.instagram.com/esaracgp/">
+  <img alt="Instagram" height=50 width=50 src="./img/instagram.svg">
+</a>
+<a href="https://www.linkedin.com/in/estebanarizaacosta/">
+  <img alt="Linkedin" height=50 width=50 src="./img/linkedin.svg">
+</a>
+<a href="https://www.twitch.tv/esarac567">
+  <img alt="Twitch" height=50 width=50 src="./img/twitch.svg">
+</a>
+<a href="https://open.spotify.com/user/12175210260">
+  <img alt="Spotify" height=50 width=50 src="./img/spotify.svg">
+</a>
+<a href="https://www.paypal.me/esaracgp">
+  <img alt="Paypal" height=50 width=50 src="./img/paypal.svg">
+</a>
