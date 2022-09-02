@@ -5,7 +5,7 @@
 </h1>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&redirect=true">
-    <img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=53B14F&bar_color_cover=false">
+    <img align="right" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=default&bar_color=53B14F&bar_color_cover=false">
 </a>
 
 <h2>😄 About me</h2>
