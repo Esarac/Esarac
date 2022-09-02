@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&redirect=true">
-    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=a674e7&bar_color_cover=false">
+    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=a674e7&bar_color_cover=true">
   </a>
 </div>
 
