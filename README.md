@@ -1,8 +1,12 @@
-# Hi, Welcome to my GitHub!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=50&pause=1000&color=B24DFFFF&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%A4%94+Hi!+I'm+Esarac;%F0%9F%A5%B4+Welcome+to+my+profile" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&redirect=true">
-    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=a674e7&bar_color_cover=true">
+    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12175210260&cover_image=true&theme=novatorem&bar_color=a674e7&bar_color_cover=false">
   </a>
 </div>
 
