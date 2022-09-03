@@ -10,31 +10,39 @@
 
 <h2>😄 About me</h2>
 <p>
-  I’m a versatile, team worker and adept software engineer with experience in web development, project management, data analytics, and automated testing. As well, I have a huge foreground in agile methodologies such as Scrum, in order to complete tasks in short periods of time and bring constant value to the organization.
 </p>
-<h3>Even more...</h3>
-<h3>I'm a</h3>
+<h3>I'm a software engineer identified as:</h3>
 <ul>
-  <li>Software engineer 👨‍💻</li>
-  <li>Video game designer 🎮</li>
-  <li>Salsa dancer 💃</li>
-  <li>Once 🎵</li>
+  <li>Full Stack Developer 🤑</li>
+  <li>Scrum Master 🧐</li>
+  <li>Video Game Developer and Designer 😎</li>
+  <li>Salsa Dancer 🥵</li>
+  <li>Once 😍</li>
   <li>Bodybuilder 💪</li>
 </ul>
+<p>
+  I have experience in web development, artificial intelligence, and cybersecurity. I really enjoy programming and learning new languages, frameworks, and tools since every project is a new challenge, and I love challenges😏. That's one of the main reasons most of my free time is taken up by my 2 favorite pastimes: playing and developing videogames on Unity.
+</p>
 
 <h2>🤯 Technology I use</h2>
-
+<h3>Programming languages</h3>
 <div>
-<img alt="Java" height=50 width=50 src="./img/java.svg">
-<img alt="Csharp" height=50 width=50 src="./img/csharp.svg">
-<img alt="Python" height=50 width=50 src="./img/python.svg">
-<img alt="Javascript" height=50 width=50 src="./img/javascript.svg">
-<img alt="Typescript" height=50 width=50 src="./img/typescript.svg">
-<img alt="Kotlin" height=50 width=50 src="./img/kotlin.svg">
-<img alt="Html" height=50 width=50 src="./img/html5.svg">
-<img alt="Css" height=50 width=50 src="./img/css3.svg">
-<img alt="Sass" height=50 width=50 src="./img/sass.svg">
-<img alt="Mysql" height=50 width=50 src="./img/mysql.svg">
+  <img alt="Java" height=50 width=50 src="./img/java.svg">
+  <img alt="Csharp" height=50 width=50 src="./img/csharp.svg">
+  <img alt="Python" height=50 width=50 src="./img/python.svg">
+  <img alt="Javascript" height=50 width=50 src="./img/javascript.svg">
+  <img alt="Typescript" height=50 width=50 src="./img/typescript.svg">
+  <img alt="Kotlin" height=50 width=50 src="./img/kotlin.svg">
+  <img alt="Html" height=50 width=50 src="./img/html5.svg">
+  <img alt="Css" height=50 width=50 src="./img/css3.svg">
+  <img alt="Sass" height=50 width=50 src="./img/sass.svg">
+</div>
+<h3>Frameworks and libraries</h3>
+<div>
+</div>
+<h3>Tools and technologies</h3>
+<div>
+  <img alt="Mysql" height=50 width=50 src="./img/mysql.svg">
 </div>
 
 <h2>🤨 Social media</h2>
