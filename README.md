@@ -24,7 +24,7 @@
   I have experience in web development, artificial intelligence, and cybersecurity. I really enjoy programming and learning new languages, frameworks, and tools since every project is a new challenge, and I love challenges😏. That's one of the main reasons most of my free time is taken up by my 2 favorite pastimes: playing and developing videogames on Unity.
 </p>
 
-<h2>🤯 My skils</h2>
+<h2>🤯 My skills</h2>
 <h3>🌠 Programming languages</h3>
 <div>
   <img alt="Java" height=50 width=50 src="./img/java.svg">
