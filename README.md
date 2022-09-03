@@ -25,7 +25,7 @@
 </p>
 
 <h2>🤯 Technology I use</h2>
-<h3>Programming languages</h3>
+<h3>🌠 Programming languages</h3>
 <div>
   <img alt="Java" height=50 width=50 src="./img/java.svg">
   <img alt="Csharp" height=50 width=50 src="./img/csharp.svg">
@@ -37,10 +37,10 @@
   <img alt="Css" height=50 width=50 src="./img/css3.svg">
   <img alt="Sass" height=50 width=50 src="./img/sass.svg">
 </div>
-<h3>Frameworks and libraries</h3>
+<h3>🌌 Frameworks and libraries</h3>
 <div>
 </div>
-<h3>Tools and technologies</h3>
+<h3>🚀 Tools and technologies</h3>
 <div>
   <img alt="Mysql" height=50 width=50 src="./img/mysql.svg">
 </div>
