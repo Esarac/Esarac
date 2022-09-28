@@ -25,6 +25,11 @@
 </p>
 
 <h2>🤯 My skills</h2>
+
+<!--div>
+  <img alt="LangStats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=esarac&layout=compact&hide=tcl,tex&langs_count=10&theme=dark">
+</div-->
+
 <h3>🌠 Programming languages</h3>
 <div>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Oracle&logoColor=white">
