@@ -13,7 +13,7 @@
 </p>
 <h3>I'm a software engineer identified as:</h3>
 <ul>
-  <li>Full Stack Developer 🤑</li>
+  <li>Data Engineer 🤑</li>
   <li>Scrum Master 🧐</li>
   <li>Video Game Developer and Designer 😎</li>
   <li>Salsa Dancer 🥵</li>
